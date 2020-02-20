@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_URL = 'https://0.0.0.0:32616'
+const API_URL = 'https://agile-hollows-96197.herokuapp.com'
 
 const plainAxiosInstance = axios.create({
   baseURL: API_URL,
