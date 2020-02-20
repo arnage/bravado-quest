@@ -1,9 +1,17 @@
 {
   "dependencies": {
-    "@rails/webpacker": "^3.0.2",
-    "coffeescript": "1.12.7"
+    "@rails/webpacker": "^4.2.2",
+    "axios": "^0.19.2",
+    "debounce": "^1.2.0",
+    "vue": "^2.6.11",
+    "vue-axios": "^2.1.5",
+    "vue-loader": "^15.9.0",
+    "vue-template-compiler": "^2.6.11",
+    "vue-virtual-scroll-list": "^1.4.5"
   },
   "devDependencies": {
-    "webpack-dev-server": "^2.9.4"
+    "postcss-cssnext": "^3.1.0",
+    "postcss-smart-import": "^0.7.6",
+    "webpack-dev-server": "^3.10.3"
   }
 }
